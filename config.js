@@ -43,12 +43,12 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'stickerby'
-global.author = `ArullOfc`
+global.author = 'ArullOfc'
 
 
 
 
-`ig: elysahrulwara_____`
+ig: 'elysahrulwara_____'
 
 global.wm = 'by ArullOfc'
 global.watermark = wm
